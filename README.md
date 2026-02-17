@@ -1,3 +1,5 @@
+Linkedin: www.linkedin.com/in/estevão-fagundes
+Futuro engenheiro eletrecista, apaixonado por programação.
 # 📦 Sistema de Gerenciamento de Estoque (CRUD em C)
 
 Este é um projeto de gerenciamento de estoque robusto desenvolvido em **Linguagem C**. O sistema foi projetado para rodar em ambiente Windows, oferecendo uma solução completa para controle de mercadorias com persistência de dados.
@@ -36,6 +38,7 @@ Este projeto demonstra o domínio de conceitos fundamentais da programação em 
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/tevo-rever/Sitema-de-gerenciamento-CRUD-em-C.git](https://github.com/tevo-rever/Sitema-de-gerenciamento-CRUD-em-C.git)
+   
 2- Bash:
 gcc main.c -o sistema_estoque.exe
 
