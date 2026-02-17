@@ -45,3 +45,5 @@ gcc main.c -o sistema_estoque.exe
 Execute:
 ./sistema_estoque.exe
 
+Ou também, escolha um software de sua preferência que trabalhe com linguagem C, copie e cole o código em um novo arquivo e rode ele.
+
